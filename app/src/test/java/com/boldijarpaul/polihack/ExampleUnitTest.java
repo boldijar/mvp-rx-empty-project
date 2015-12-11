@@ -1,4 +1,4 @@
-package com.boldijarpaul.polihack;
+package com.boldijarpaul.mvprxsample;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.boldijarpaul.polihack.rx;
+package com.boldijarpaul.mvprxsample.rx;
 
 /**
  */

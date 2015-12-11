@@ -1,4 +1,4 @@
-package com.boldijarpaul.polihack.dagger;
+package com.boldijarpaul.mvprxsample.dagger;
 
 import android.app.Application;
 import android.content.Context;
